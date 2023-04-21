@@ -1,0 +1,366 @@
+@media all and (max-width: 480px) {
+  #wrap {
+    width: 95%;
+  }
+  .box1 {
+    width: 100%;
+  }
+  .box2 {
+    width: 100%;
+    margin-top: 5px;
+  }
+  .box2 .box2_item {
+    padding-left: 0;
+  }
+  .left {
+    padding-left: 5px !important;
+  }
+  .box3_item,
+  .box4_item {
+    width: 48% !important;
+  }
+  .sidebar {
+    padding: 0 40px !important;
+  }
+  nav ul {
+    display: none;
+  }
+  nav ul.active {
+    margin: 0;
+    background-color: #006cff;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 50px;
+    left: 0px;
+    display: block;
+  }
+  nav ul li {
+    display: block;
+    text-align: center;
+    border-bottom: 1px solid white;
+    margin-right: 40px;
+  }
+  .icon {
+    display: block;
+    line-height: 50px;
+  }
+  nav ul.cap_2 {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 9999;
+    left: 0px;
+  }
+  .inner input[type="email"] {
+    padding: 0 !important;
+  }
+  footer {
+    height: 100% !important;
+  }
+  .box1_f {
+    width: 100%;
+  }
+  footer .column {
+    text-align: center;
+  }
+  .box2_f,
+  .box3_f,
+  .box4_f,
+  .box5_f {
+    width: 25%;
+  }
+  .why-box ul li {
+    height: 150px;
+    width: calc(100% / 2) !important;
+  }
+  .why-box ul {
+    height: 100%;
+    min-height: 450px !important;
+  }
+  .main-khachhang {
+    min-height: 450px;
+    text-align: center;
+  }
+  .txt-left {
+    width: 100%;
+    border-right: none;
+    height: 100px !important ;
+    border-bottom: 1px dashed #ccc;
+  }
+  .txt-right {
+    width: 100%;
+    clear: both;
+    margin-top: 0 !important;
+  }
+  .headerTitle h1 {
+    font-size: 2em;
+  }
+  .boxNewsAll {
+    display: block;
+  }
+  .boxNewsAll_left {
+    width: 100%;
+  }
+  .boxNewsAll_right {
+    width: 100%;
+  }
+  .gallery {
+    max-height: 100% !important;
+  }
+  .gallery .item {
+    width: 100% !important;
+  }
+}
+@media all and (max-width: 625px) and (min-width: 480px) {
+  .box1 {
+    width: 100%;
+  }
+  .box2 {
+    width: 100%;
+    margin-top: 5px;
+  }
+  .box2 .box2_item {
+    padding-left: 0;
+  }
+  .left {
+    padding-left: 5px !important;
+  }
+  .box3_item,
+  .box4_item {
+    width: 48.7% !important;
+  }
+  .sidebar {
+    padding: 0 40px !important;
+  }
+  nav ul {
+    display: none;
+  }
+  nav ul.active {
+    margin: 0;
+    background-color: #006cff;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 50px;
+    left: 0px;
+    display: block;
+  }
+  nav ul li {
+    display: block;
+    text-align: center;
+    border-bottom: 1px solid white;
+    margin-right: 40px;
+  }
+  .icon {
+    display: block;
+    line-height: 50px;
+  }
+  nav ul.cap_2 {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 9999;
+    left: 0px;
+  }
+  .inner input[type="email"] {
+    padding: 0 !important;
+  }
+  footer {
+    height: 100% !important;
+  }
+  .box1_f {
+    width: 100%;
+  }
+  footer .column {
+    text-align: center;
+  }
+  .box2_f,
+  .box3_f,
+  .box4_f,
+  .box5_f {
+    width: 25%;
+  }
+  .box6 {
+    display: block;
+  }
+  .box6_left {
+    width: 100% !important;
+  }
+  .box6_right {
+    width: 100% !important;
+  }
+  .boxNewsAll {
+    display: block;
+  }
+  .boxNewsAll_left {
+    width: 100%;
+  }
+  .boxNewsAll_right {
+    width: 100%;
+  }
+  .gallery {
+    max-height: 2100px !important;
+  }
+  .gallery .item {
+    width: 50% !important;
+  }
+}
+@media all and (max-width: 785px) and (min-width: 625px) {
+  .box1 {
+    width: 100%;
+  }
+  .box2 {
+    width: 100%;
+    margin-top: 5px;
+  }
+  .box2 .box2_item {
+    padding-left: 0;
+  }
+  .left {
+    padding-left: 5px !important;
+  }
+  .box3_item,
+  .box4_item {
+    width: 49% !important;
+  }
+  .sidebar {
+    padding: 0 40px !important;
+  }
+  nav ul {
+    display: none;
+  }
+  nav ul.active {
+    margin: 0;
+    background-color: #006cff;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 50px;
+    left: 0px;
+    display: block;
+  }
+  nav ul li {
+    display: block;
+    text-align: center;
+    border-bottom: 1px solid white;
+    margin-right: 40px;
+  }
+  .icon {
+    display: block;
+    line-height: 50px;
+  }
+  nav ul.cap_2 {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 9999;
+    left: 0px;
+  }
+  .inner input[type="email"] {
+    padding: 0 !important;
+  }
+  footer {
+    height: 100% !important;
+  }
+  .box1_f {
+    width: 100%;
+  }
+  footer .column {
+    text-align: center;
+  }
+  .box2_f,
+  .box3_f,
+  .box4_f,
+  .box5_f {
+    width: 25%;
+  }
+  .box6 {
+    display: block;
+  }
+  .box6_left {
+    width: 100% !important;
+  }
+  .box6_right {
+    width: 100% !important;
+  }
+  .boxNewsAll {
+    display: block;
+  }
+  .boxNewsAll_left {
+    width: 100%;
+  }
+  .boxNewsAll_right {
+    width: 100%;
+  }
+}
+@media all and (max-width: 992px) and (min-width: 785px) {
+  .sidebar {
+    padding: 0 40px !important;
+  }
+  nav ul {
+    display: none;
+  }
+  nav ul.active {
+    margin: 0;
+    background-color: #006cff;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 50px;
+    left: 0px;
+    display: block;
+  }
+  nav ul li {
+    display: block;
+    text-align: center;
+    border-bottom: 1px solid white;
+    margin-right: 40px;
+  }
+  .icon {
+    display: block;
+    line-height: 50px;
+  }
+  nav ul.cap_2 {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 9999;
+    left: 0px;
+  }
+  .box3_item,
+  .box4_item {
+    width: 24.4% !important;
+  }
+  .inner input[type="email"] {
+    padding: 0 !important;
+  }
+  .box6 {
+    display: block;
+  }
+  .box6_left {
+    width: 100% !important;
+  }
+  .box6_right {
+    width: 100% !important;
+  }
+}
+
+@media all and (max-width: 1024px) and (min-width: 992px) {
+  .sidebar {
+    padding: 0 40px !important;
+  }
+  .box3_item,
+  .box4_item {
+    width: 24.5% !important;
+  }
+}
+@media all and (max-width: 1280px) and (min-width: 1024px) {
+  .sidebar {
+    padding: 0 40px !important;
+  }
+  .box3_item,
+  .box4_item {
+    width: 24.5% !important;
+  }
+}
